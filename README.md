@@ -5,9 +5,9 @@ Link: https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-ch
 
 I have used a bi-directional LSTM network, with multi-binary outputs to classify comments as any of the following:
 
-toxic
-severe_toxic
-obscene
-threat
-insult
-identity_hate
+* toxic
+* severe_toxic
+* obscene
+* threat
+* insult
+* identity_hate
